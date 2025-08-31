@@ -6,6 +6,7 @@ THE FINALS is a chaotic arena shooter where destruction, movement, and precision
 
 Cheats don’t just give you an edge—they turn you into the player everyone fears.
 
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://the-finals-cheat.github.io/.github/)
 ---
 
 ## Product Overview
